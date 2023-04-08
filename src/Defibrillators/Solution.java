@@ -34,6 +34,7 @@ public class Solution {
             if (defibrillator.getName().equals("Cimetiere Saint-Etienne") ||
                     defibrillator.getName().equals("Gymnase Albert Batteux")) {
                 System.out.println(resultCalculation);
+
             }
 
             if (minDistance > resultCalculation) {
